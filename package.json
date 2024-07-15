@@ -1,0 +1,25 @@
+{
+    "name": "credit-card-number-valid",
+    "version": "1.0.0",
+    "description": "A simple credit card validation library.",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/busraltun/credit-card-validator.git"
+    },
+    "keywords": [
+      "credit card",
+      "validation",
+      "luhn"
+    ],
+    "author": "BusraAlkan",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/busraltun/credit-card-validator/issues"
+    },
+    "homepage": "https://github.com/busraltun/credit-card-validator#readme"
+  }
+  
